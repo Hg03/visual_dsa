@@ -11,4 +11,4 @@
 - [Search in a Rotated Sorted Array](https://github.com/Hg03/visual_dsa/blob/main/Rotated_Binary_Search.pdf)
 - [Minimum in a Rotated Sorted Array](https://github.com/Hg03/visual_dsa/blob/main/Rotated_Array_Minimum_Search.pdf)
 - [Maximum Sum & Product Subarray](https://github.com/Hg03/visual_dsa/blob/main/Subarray_Maximization.pdf)
-- [3 Sum]()
+- [3 Sum](https://github.com/Hg03/visual_dsa/blob/main/3_Sum_Two_Pointer_Solution.pdf)
